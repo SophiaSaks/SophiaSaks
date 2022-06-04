@@ -1,5 +1,3 @@
-<h1 class="title">Hi there 👋</h1>
-
 ![Cover image](https://raw.githubusercontent.com/SophiaSaks/SophiaSaks/main/CoverImage.jpg)
 
 - 🔭 I’m a recently graduated UX-desinger
