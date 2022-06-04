@@ -1,5 +1,7 @@
 <h1 class="title">Hi there 👋</h1>
 
+![Cover image](/Users/sophiasaks/SophiaSaks/Coverimage.png)
+
 
 - 🔭 I’m a recently graduated UX-desinger
 - 🌱 I’m currently learning React, Vue.js and Vuetify
