@@ -1,4 +1,4 @@
-![Cover image](https://raw.githubusercontent.com/SophiaSaks/SophiaSaks/main/GitHubReadme.jpg)
+![Cover image](https://raw.githubusercontent.com/SophiaSaks/SophiaSaks/main/GitHubReadme.png)
 
 
 - 🔭 I’m a junior fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-design</b>. 
