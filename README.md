@@ -13,7 +13,7 @@ I’m a junior fullstack <b>Javascript Developer</b> with a vocational degree in
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </section>
-<hr />
+<hr color='#3D9892' />
 <h3 align='center'>
 <b>Languages:</b>
 </h3>
@@ -49,4 +49,6 @@ I’m a junior fullstack <b>Javascript Developer</b> with a vocational degree in
     <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </section>
+
+<hr color='#3D9892'/>
 
