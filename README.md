@@ -2,7 +2,7 @@
 
 
 <h1 align='center'> 
-I’m a junior fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-design</b>. 
+I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-design</b>. 
 </h1>
 
 <h3 align='center'>
