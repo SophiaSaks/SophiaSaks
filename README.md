@@ -1,5 +1,9 @@
 <section align='center'>
+     
+<hr color='#3D9892' />
      <img src="https://github.com/user-attachments/assets/1058ece5-5cec-4f1c-8e3b-948bd7eecffb" />
+     
+<hr color='#3D9892' />
 
 <h1 align='center'> 
 I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-design</b>. 
@@ -13,7 +17,6 @@ I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </section>
-<hr color='#3D9892' />
 <h3 align='center'>
 <b>Languages:</b>
 </h3>
@@ -52,6 +55,8 @@ I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-
 <hr color='#3D9892'/>
 
 ![GIFMaker_me (3)](https://github.com/user-attachments/assets/3512d782-459f-44e3-9ac8-2b05c0886f50)
+
+<hr color='#3D9892' />
 
  </section>
 
