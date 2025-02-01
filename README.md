@@ -1,6 +1,6 @@
-![Cover image](https://raw.githubusercontent.com/SophiaSaks/SophiaSaks/main/GitHubReadme.png)
-
-
+<section align='center'>
+     <img src="https://github.com/user-attachments/assets/1058ece5-5cec-4f1c-8e3b-948bd7eecffb" />
+ </section>
 <h1 align='center'> 
 I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-design</b>. 
 </h1>
@@ -24,7 +24,6 @@ I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </section>
 <h3 align='center'>
-<b>Currently learning:</b>
 </h3>
 <section align='center'>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
