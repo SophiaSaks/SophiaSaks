@@ -52,12 +52,6 @@ I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </section>
 
-<hr color='#3D9892'/>
-
-![GIFMaker_me (3)](https://github.com/user-attachments/assets/3512d782-459f-44e3-9ac8-2b05c0886f50)
-
-<hr color='#3D9892' />
-
  </section>
 
 
