@@ -1,6 +1,6 @@
 <section align='center'>
      <img src="https://github.com/user-attachments/assets/1058ece5-5cec-4f1c-8e3b-948bd7eecffb" />
- </section>
+
 <h1 align='center'> 
 I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-design</b>. 
 </h1>
@@ -50,4 +50,9 @@ I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-
 </section>
 
 <hr color='#3D9892'/>
+
+![GIFMaker_me (3)](https://github.com/user-attachments/assets/3512d782-459f-44e3-9ac8-2b05c0886f50)
+
+ </section>
+
 
