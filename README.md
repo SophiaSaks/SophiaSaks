@@ -1,10 +1,4 @@
 <section align='center'>
-     
-<hr color='#3D9892' />
-     <img src="https://github.com/user-attachments/assets/1058ece5-5cec-4f1c-8e3b-948bd7eecffb" />
-     
-<hr color='#3D9892' />
-
 <h1 align='center'> 
 I’m a fullstack <b>Javascript Developer</b> with a vocational degree in <b>UX-design</b>. 
 </h1>
